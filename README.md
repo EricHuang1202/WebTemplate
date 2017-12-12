@@ -1,6 +1,6 @@
 # WebTemplate
-前端：AngularJS + Bootstrap
-後端： ASP.NET Web API
+前端：AngularJS + Bootstrap，
+後端： ASP.NET Web API，
 資料庫: MySQL
 
 ## 說明
